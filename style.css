@@ -1,0 +1,42 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <title>紅の貯金箱</title>
+</head>
+
+<body>
+    <h1>ここから始めます</h1>
+
+    <img src="img/river.jpg" class="picture">
+    <p>この写真は五十嵐側という川です。散歩の途中に撮影しました。</p>
+
+    <h2>ここから別の文字を書きます。</h2>
+    <img src="img/bridge.jpg" class="picture">
+    <p class="short">変更しました。</p>
+    <p>この文字はわかりにくいですね。</p>
+
+    <h2>別の文字を書きます。</h2>
+    <img src="img/piggy_bank.JPG" width="800px">
+    <p>この豚すごくない？</p>
+    <!--
+        HTMLからCSSを読み込むためには、
+        <link rel="stylesheet" href="stylesheet.css"のファイル名">を用いる。
+     
+        ホームページに画像を表示するHTMLタグはこのように記述します。
+
+      <img src="http://" alt="" width="" height="" border="0">
+
+     各要素に画像の情報を記述します。
+
+     srcには画像のあるURL
+     altに画像の説明文
+     widthに横幅
+     heightに高さ
+     borderには境界線の指定
+
+     <p>は普通の文字を書く。使わなくても書けるけど区別のために使う場合がほとんど。
+    -->
+</body>
+
+</html>
